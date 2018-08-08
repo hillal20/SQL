@@ -26,10 +26,6 @@ INSERT INTO track (title, album_id) VALUES ("Super Funky Track 2", 2);
 INSERT INTO track (title, album_id) VALUES ("Super Funky Track 3", 2);
 INSERT INTO track (title, album_id) VALUES ("Super Funky Track 4", 2);
 
-INSERT INTO track (title, album_id) VALUES ("Super Disco Track 1", 3);
-INSERT INTO track (title, album_id) VALUES ("Super Disco Track 2", 3);
-INSERT INTO track (title, album_id) VALUES ("Super Disco Track 3", 3);
-
 INSERT INTO track (title, album_id) VALUES ("Super Hairband Track 1", 4);
 INSERT INTO track (title, album_id) VALUES ("Super Hairband Track 2", 4);
 INSERT INTO track (title, album_id) VALUES ("Super Hairband Track 3", 4);
